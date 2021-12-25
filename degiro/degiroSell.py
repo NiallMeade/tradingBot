@@ -10,8 +10,8 @@ import math
 
 driver = webdriver.Firefox(executable_path=r'/home/niall/Downloads/geckodriver')
 
-username = "NiallMeade"
-password = "@Munster101"
+username = ""
+password = ""
 
 driver.get("https://trader.degiro.nl/login/ie?_ga=2.256698568.2124293258.1631614785-1743120408.1631614785#/login")
 
