@@ -15,8 +15,8 @@ from selenium.common.exceptions import TimeoutException
 
 driver = webdriver.Firefox(executable_path=r'/home/niall/Downloads/geckodriver')
 
-username = "niallbm101@gmail.com"
-password = "@Munster101"
+username = ""
+password = ""
 
 driver.get("https://www.trading212.com/en/login")
 
